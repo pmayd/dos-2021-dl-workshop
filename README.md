@@ -1,5 +1,7 @@
 # Einführung in Deep Learning mit Keras
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pmayd/dos-2021-dl-workshop/HEAD)
+
 Workshop, gehalten am 16.12.2021 auf der (Un-)Konferenz Developer Open Space (https://devopenspace.de/)
 
 ## Inhalt 
@@ -34,5 +36,3 @@ Ein minimales Setup sollte eine installierte Python 3.9 Umgebung sein, ich empfe
 ## Tools
 
 [Google Colab](https://colab.research.google.com/)
-
-[binder](https://mybinder.org/)
